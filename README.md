@@ -1,6 +1,7 @@
 # Self Illumination Colour Tool
 
-Steam Workshop download link: https://steamcommunity.com/sharedfiles/filedetails/?id=3604698119
+~~Steam Workshop download link:~~
+This is now merged into the main addon. Thanks MrTheWizard.
 
 Patched "fork" fixed for saves/dupes from https://steamcommunity.com/sharedfiles/filedetails/?id=2700690811
 
